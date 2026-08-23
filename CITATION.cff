@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the specific paper listed in publications.json or README.md."
+title: "Radiant Publications"
+type: software
+authors:
+  - family-names: "Nguy"
+    given-names: "Thomson D."
+    orcid: "https://orcid.org/0009-0004-8458-1638"
+url: "https://github.com/RadiantManifoldInstitute/radiant-publications"
+abstract: "Public research index for the Radiant Institute for Manifold Studies."

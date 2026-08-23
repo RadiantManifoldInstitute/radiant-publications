@@ -1,0 +1,39 @@
+{
+  "schemaVersion": "1.0",
+  "organization": {
+    "name": "Radiant Institute for Manifold Studies",
+    "url": "https://www.theradiantinstitute.org/"
+  },
+  "author": {
+    "name": "Thomson D. Nguy",
+    "orcid": "https://orcid.org/0009-0004-8458-1638"
+  },
+  "publications": [
+    {
+      "title": "Allostatic Control Systems: Goal Governance in Changing Environments",
+      "year": 2026,
+      "type": "preprint",
+      "arxiv": "2607.21771",
+      "arxivUrl": "https://arxiv.org/abs/2607.21771",
+      "pdfUrl": "https://arxiv.org/pdf/2607.21771",
+      "instituteUrl": "https://www.theradiantinstitute.org/preprints/allostatic-control-systems",
+      "primaryCategory": "eess.SY",
+      "crossLists": ["cs.SY"],
+      "peerReviewed": false,
+      "releaseBoundary": "Public preprint record only; no repository release is implied."
+    },
+    {
+      "title": "More Context, Same Budget: Dual-Bounded Relational Recall Beyond Top-K Retrieval",
+      "year": 2026,
+      "type": "preprint",
+      "arxiv": "2608.18448",
+      "arxivUrl": "https://arxiv.org/abs/2608.18448",
+      "pdfUrl": "https://arxiv.org/pdf/2608.18448",
+      "instituteUrl": "https://www.theradiantinstitute.org/preprints/more-context-same-budget",
+      "primaryCategory": "cs.IR",
+      "crossLists": ["cs.CL"],
+      "peerReviewed": false,
+      "releaseBoundary": "Public preprint record only; no repository release is implied."
+    }
+  ]
+}
