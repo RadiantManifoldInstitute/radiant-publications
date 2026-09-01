@@ -6,6 +6,15 @@ The authoritative scholarly records are the linked arXiv records below. The inst
 
 ## Preprints
 
+### Which Rules Matter Now? Policy-Centroid Routing Before an Intelligent System Acts
+
+Thomson D. Nguy. 2026. [arXiv:2608.30757](https://arxiv.org/abs/2608.30757) [cs.AI; cross-list cs.CY].
+
+- Institute record: <https://www.theradiantinstitute.org/preprints/which-rules-matter-now>
+- Public PDF: <https://arxiv.org/pdf/2608.30757>
+- Scope: a theory and research program for routing a proposed action to policy regimes that warrant authoritative review.
+- Result boundary: the paper includes a synthetic worked example and reports no empirical efficacy result. Its output is a review agenda, not a permission, prohibition, legality, breach, compliance, certification, or enforcement determination. It is an arXiv preprint, not peer reviewed.
+
 ### Allostatic Control Systems: Goal Governance in Changing Environments
 
 Thomson D. Nguy. 2026. [arXiv:2607.21771](https://arxiv.org/abs/2607.21771) [eess.SY; cross-list cs.SY].

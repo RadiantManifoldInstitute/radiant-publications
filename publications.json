@@ -10,6 +10,19 @@
   },
   "publications": [
     {
+      "title": "Which Rules Matter Now? Policy-Centroid Routing Before an Intelligent System Acts",
+      "year": 2026,
+      "type": "preprint",
+      "arxiv": "2608.30757",
+      "arxivUrl": "https://arxiv.org/abs/2608.30757",
+      "pdfUrl": "https://arxiv.org/pdf/2608.30757",
+      "instituteUrl": "https://www.theradiantinstitute.org/preprints/which-rules-matter-now",
+      "primaryCategory": "cs.AI",
+      "crossLists": ["cs.CY"],
+      "peerReviewed": false,
+      "releaseBoundary": "Theory and research-program preprint with a synthetic worked example and no empirical efficacy result. The routing output is a review agenda, not an automated policy decision or code release."
+    },
+    {
       "title": "Allostatic Control Systems: Goal Governance in Changing Environments",
       "year": 2026,
       "type": "preprint",
