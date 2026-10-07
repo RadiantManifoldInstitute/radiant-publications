@@ -6,6 +6,17 @@ The authoritative scholarly records are the linked arXiv records below. The inst
 
 ## Preprints
 
+### Can Semantic Geometry Teach an AI Judgement?
+
+Thomson D. Nguy. 2026. [arXiv:2610.07249](https://arxiv.org/abs/2610.07249) [cs.AI]. Version v1, submitted October 5, 2026; 16 pages, 6 figures.
+
+- Institute record: <https://www.theradiantinstitute.org/preprints/can-semantic-geometry-teach-an-ai-judgement>
+- Public PDF: <https://arxiv.org/pdf/2610.07249>
+- Scientific companion: [semantic-geometry-judgement](https://github.com/RadiantManifoldInstitute/semantic-geometry-judgement), [version 0.1.0](https://github.com/RadiantManifoldInstitute/semantic-geometry-judgement/releases/tag/v0.1.0).
+- Scope: four bounded studies of semantic measurements for pre-action judgment, separating policy retrieval from relation interpretation and final action decisions.
+- Result boundary: the tested approaches did not establish reliable pre-action judgment. In the final synthetic study, a lexical router recovered every governing and blocking policy and reduced median policy checks by 97.7%, but the composed pipeline escalated all 2,304 actions. Supplying every policy changed no decision. The consequence-graph hypothesis remains untested. This is an arXiv preprint, not peer reviewed.
+- Reproduction boundary: the companion supplies frozen evidence and bounded offline recalculation inputs with stated limitations; full experimental replication is not claimed.
+
 ### Which Rules Matter Now? Policy-Centroid Routing Before an Intelligent System Acts
 
 Thomson D. Nguy. 2026. [arXiv:2608.30757](https://arxiv.org/abs/2608.30757) [cs.AI; cross-list cs.CY].

@@ -10,6 +10,23 @@
   },
   "publications": [
     {
+      "title": "Can Semantic Geometry Teach an AI Judgement?",
+      "year": 2026,
+      "datePublished": "2026-10-05",
+      "version": "v1",
+      "type": "preprint",
+      "arxiv": "2610.07249",
+      "arxivUrl": "https://arxiv.org/abs/2610.07249",
+      "pdfUrl": "https://arxiv.org/pdf/2610.07249",
+      "instituteUrl": "https://www.theradiantinstitute.org/preprints/can-semantic-geometry-teach-an-ai-judgement",
+      "primaryCategory": "cs.AI",
+      "crossLists": [],
+      "peerReviewed": false,
+      "companionUrl": "https://github.com/RadiantManifoldInstitute/semantic-geometry-judgement",
+      "companionReleaseUrl": "https://github.com/RadiantManifoldInstitute/semantic-geometry-judgement/releases/tag/v0.1.0",
+      "releaseBoundary": "Four bounded studies did not establish reliable pre-action judgment. The consequence-graph hypothesis remains untested. The companion supplies frozen evidence and bounded offline recalculation inputs, not full experimental replication."
+    },
+    {
       "title": "Which Rules Matter Now? Policy-Centroid Routing Before an Intelligent System Acts",
       "year": 2026,
       "type": "preprint",
